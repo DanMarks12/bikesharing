@@ -24,4 +24,4 @@ We can see a lot of important piece of informations from our visualizations that
 
 #LINK TO BIKESHARING_CHALLENGE IN TABLEAU PUBLIC
 
-https://public.tableau.com/profile/dan.marks#!/vizhome/Bikesharing_Challenge_16157758648460/NYCStory?publish=yes
+[link to dashboard](https://public.tableau.com/profile/dan.marks#!/vizhome/Bikesharing_Challenge_16157758648460/NYCStory?publish=yes)
