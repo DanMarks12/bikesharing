@@ -20,3 +20,8 @@ Most weekday rides are around 7:00 AM to 9:00 AM and 5:00 PM to 7:00 PM. Althoug
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 We can see a lot of important piece of informations from our visualizations that will help us launch our CitiBike program in Des Moines. As seen about, our marketing efforts should be targeted more towards Male users as they use the service more on a day to day basis, take longer trips, and subscribe more often than females. This could also be a growth opportunity to females. We can see a lot of females use our service during busy rush hours in the morning and after work so we can consider marketing to female professionals who may otherwise be walking or taking a subway home. Some additional analyis we can perform would be to look at additional months than just August to see if some of the trends we find stand all year long. In addition to this, we can pull in weather data from our Weather API and compare different weather periods such as snow, sun, windy etc. and see if we see the same trends. 
+
+
+#LINK TO BIKESHARING_CHALLENGE IN TABLEAU PUBLIC
+
+https://public.tableau.com/profile/dan.marks#!/vizhome/Bikesharing_Challenge_16157758648460/NYCStory?publish=yes
